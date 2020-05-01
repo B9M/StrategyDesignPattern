@@ -1,4 +1,4 @@
-package strategydesignpattern;
+package strategy;
 
 import strategy.IStrategy;
 

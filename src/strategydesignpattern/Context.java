@@ -1,5 +1,6 @@
 package strategydesignpattern;
 
+import strategy.DefaultStrategyImpl;
 import strategy.IStrategy;
 
 public class Context {
