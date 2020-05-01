@@ -9,6 +9,7 @@ import strategy.StrategyImpl3;
 
 public class App {
 	public static void main(String[] args) throws Exception{
+		//Version Statique
 		System.out.println("---------------Version Statique-----------------");
 		Context ctx = new Context();
 		ctx.process();
